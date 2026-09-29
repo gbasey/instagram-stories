@@ -1,0 +1,4 @@
+firmware/.pio/
+firmware/include/segredos.h
+servidor/*.db
+__pycache__/
